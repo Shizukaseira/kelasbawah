@@ -12,22 +12,22 @@ export const Footer = () => {
         <div className={s.social}>
           Social Media
           <p>
-            <Link href="https://twitter.com/basementstudio">Twitter</Link> —{' '}
-            <Link href="https://www.instagram.com/basementdotstudio/">
+            <Link href="">Twitter</Link> —{' '}
+            <Link href="">
               Instagram
             </Link>{' '}
-            — <Link href="https://github.com/basementstudio">Github</Link> —{' '}
-            <Link href="https://www.twitch.tv/basementdotstudio">Twitch</Link>
+            — <Link href="">Github</Link> —{' '}
+            <Link href="">Twitch</Link>
           </p>
         </div>
         <p className={s.email}>
           <span>Get in touch</span>
-          <Link target="_self" href="mailto:hello@basement.studio">
-            hello@basement.studio
+          <Link target="_self" href="mailto:kelasbawah@protonmail.com">
+            kelasbawah.studio
           </Link>
         </p>
         <p className={s.rights}>
-          © basement.studio LLC {new Date().getFullYear()}
+          © Studio.Kelasbawah LLC {new Date().getFullYear()}
           <br />
           all rights reserved
         </p>
