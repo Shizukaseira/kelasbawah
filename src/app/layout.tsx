@@ -35,10 +35,10 @@ const neueMontreal = localFont({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Creative Dev Challenge | basement.studio',
-    template: '%s | basement.studio'
+    default: 'Studio | Kelasbawah',
+    template: '%s | Kelasbawah studio'
   },
-  description: `A challenge for creative dev — Next.js with TypeScript.`,
+  description: `A team kelasbawah — Next.js with TypeScript.`,
   icons: [
     {
       rel: 'apple-touch-icon',
@@ -48,9 +48,9 @@ export const metadata: Metadata = {
   manifest: '/manifest.webmanifest',
   twitter: {
     card: 'summary_large_image',
-    title: 'Creative Dev Challenge | basement.studio',
-    creator: '@basementstudio',
-    siteId: '@basementstudio'
+    title: 'Creative Studio | Kelasbawah',
+    creator: '@kelasbawah',
+    siteId: '@kelasbawah'
   }
 }
 
