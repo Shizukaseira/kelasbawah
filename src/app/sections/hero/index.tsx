@@ -17,8 +17,7 @@ export const Hero = () => {
       </h1>
       <Marquee className={s.marquee} autoFill aria-label="Marquee section">
         <p>
-          A man can't have enough basement swag — A man can't have enough
-          basement swag
+          Every code is a small step towards a big dream.
         </p>
       </Marquee>
       <div className={s.awwward}>
