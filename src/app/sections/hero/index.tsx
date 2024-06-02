@@ -12,8 +12,8 @@ export const Hero = () => {
   return (
     <Container as="section" className={s.container}>
       <h1>
-        Basement
-        <span>LAB</span>
+        Community
+        <span>Studio</span>
       </h1>
       <Marquee className={s.marquee} autoFill aria-label="Marquee section">
         <p>
