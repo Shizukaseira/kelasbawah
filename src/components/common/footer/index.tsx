@@ -23,7 +23,7 @@ export const Footer = () => {
         <p className={s.email}>
           <span>Get in touch</span>
           <Link target="_self" href="mailto:kelasbawah@protonmail.com">
-            kelasbawah.studio
+            kelasbawah
           </Link>
         </p>
         <p className={s.rights}>
