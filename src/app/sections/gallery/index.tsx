@@ -13,7 +13,7 @@ type GalleryImage = {
 export const Gallery = () => {
   const images: GalleryImage[] = [
     {
-      url: '/images/basement-team-1.jpg',
+      url: '/images/kelasbawah-team-1.jpg',
       style: {
         gridArea: '1 / 1 / 1 / 13'
       }
