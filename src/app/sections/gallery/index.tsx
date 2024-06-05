@@ -25,7 +25,7 @@ export const Gallery = () => {
       }
     },
     {
-      url: '/images/basement-team-3.jpg',
+      url: '/images/kelasbawah-team-3.jpg',
       style: {
         gridArea: '2 / 9 / 3 / 13'
       }
@@ -36,7 +36,7 @@ export const Gallery = () => {
       {images.map((image, index) => (
         <div key={index} className={s.imageContainer} style={image.style}>
           <Image
-            alt="basement-team"
+            alt="kelasbawah-team"
             fill
             priority
             quality={100}
