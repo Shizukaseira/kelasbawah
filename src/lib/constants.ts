@@ -30,7 +30,7 @@ export const basementLog = `
    ██████╔╝  ██╝
    ╚═════╝   
                                                                                 
-   From the basement. https://basement.studio
+   From the basement. https://kelasbawah.studio
 `
 
 // TODO: add variable (NEXT_PUBLIC_GA_TRACKING_ID) to env if necessary
