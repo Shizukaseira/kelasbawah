@@ -19,7 +19,7 @@ export const Gallery = () => {
       }
     },
     {
-      url: '/images/basement-team-2.jpg',
+      url: '/images/kelasbawah-team-2.jpg',
       style: {
         gridArea: '2 / 1 / 3 / 9'
       }
