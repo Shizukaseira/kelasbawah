@@ -1,9 +1,9 @@
 {
-  "name": "creative-dev-challenge",
+  "name": "kelasbawah",
   "version": "1.0.0",
   "description": "A challenge for creative dev — Next.js with TypeScript.",
-  "repository": "https://github.com/basementstudio/creative-dev-challenge",
-  "author": "basement.studio",
+  "repository": "https://github.com/shizukaseira/kelasbawah",
+  "author": "kelasbawah.studio",
   "private": true,
   "scripts": {
     "dev": "next",
