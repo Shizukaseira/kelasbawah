@@ -13,7 +13,7 @@ type GalleryImage = {
 export const FooterGallery = () => {
   const images: GalleryImage[] = [
     {
-      url: '/images/basement-team-4.jpg',
+      url: '/images/kelasbawah-team-4.jpg',
       stlye: {
         gridArea: '1 / 1 / 2 / 6'
       }
