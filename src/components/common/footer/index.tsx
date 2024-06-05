@@ -16,8 +16,8 @@ export const Footer = () => {
             <Link href="">
               Instagram
             </Link>{' '}
-            — <Link href="">Github</Link> —{' '}
-            <Link href="">Twitch</Link>
+            — <Link href="">Medium</Link> —{' '}
+            <Link href="">Whatsapp</Link>
           </p>
         </div>
         <p className={s.email}>
