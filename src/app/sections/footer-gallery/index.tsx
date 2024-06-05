@@ -19,7 +19,7 @@ export const FooterGallery = () => {
       }
     },
     {
-      url: '/images/basement-team-5.jpg',
+      url: '/images/kelasbawah-team-5.jpg',
       stlye: {
         gridArea: '1 / 6 / 2 / 13'
       }
