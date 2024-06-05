@@ -29,7 +29,7 @@ export const FooterGallery = () => {
     <Container as="section" className={s.container}>
       {images.map((image, index) => (
         <div key={index} className={s.image} style={image.stlye}>
-          <Image src={image.url} alt="basement-team" fill />
+          <Image src={image.url} alt="kelasbawah-team" fill />
         </div>
       ))}
     </Container>
